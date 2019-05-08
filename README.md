@@ -24,5 +24,4 @@ model fitting and Compute precision and recall. (50pts)
 3. Change a prior for skin and non-skin classes and Analyze the result about
 above 4 cases(1-a, 1-b, 2-a, 2-b). (20pts)
 
-====================================================================================================
 
