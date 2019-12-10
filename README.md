@@ -1,12 +1,3 @@
-# CSE6061
-CSE6061,Probabilistic inference, Assignment
-
-This is assignment of CSE6061, Inha Univ.
-Use FDDB dataset for input.
-Output is Precision and Recall from the classified dataset as skin or non-skin.
-
-Following is what I've done.
-====================================================================================================
 
 1. Construct a code to classify skin or non-skin based on Bayesian decision
 rule by finding a pmf(probability mass function) of likelihood and defining a
