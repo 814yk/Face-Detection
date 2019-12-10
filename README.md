@@ -5,7 +5,7 @@ This is assignment of CSE6061, Inha Univ.
 Use FDDB dataset for input.
 Output is Precision and Recall from the classified dataset as skin or non-skin.
 
-Below thing is what i've done.
+Following is what I've done.
 ====================================================================================================
 
 1. Construct a code to classify skin or non-skin based on Bayesian decision
